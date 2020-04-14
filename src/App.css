@@ -1,0 +1,16 @@
+.App {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: #0082c3;
+  font-weight: 500;
+}
+
+@media (min-width: 1200px) {
+  .App {
+    max-width: 1180px;
+  }
+}
